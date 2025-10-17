@@ -32,6 +32,7 @@ A navegação entre seções é suave (scroll interno) e o menu permanece visív
 Aqui está a estrutura principal como consta no repositório: :contentReference[oaicite:2]{index=2}
 
 ```
+````
 
 portifolioHUB/
 │
@@ -41,6 +42,7 @@ portifolioHUB/
 ├── index.html              # página principal / ponto de entrada
 ├── style.css               # estilos do site (layout, visual)
 └── (possivelmente outros arquivos estáticos ou assets)
+````
 
 ````
 
@@ -115,8 +117,3 @@ Se quiser ver ou desenvolver localmente:
 * Os estilos visuais ficam no `style.css`
 * As imagens são armazenadas em `imagens/`
 * A configuração de servidor (Nginx) assegura que, ao entrar no domínio ou IP, o `index.html` seja servido corretamente como página principal — você não vai cair em página 404 mesmo com múltiplas seções
-
----
-
-Se quiser, posso gerar um **README.md finalizado** com esse estilo (mesma estrutura visual) já pronto pra usar no repositório. Quer que eu monte isso para você agora?
-
