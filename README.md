@@ -1,9 +1,3 @@
-Legal — vi a estrutura do repositório e o layout do site. Agora posso montar um **README.md** que reflete fielmente como o site está organizado e como ele funciona com Docker + Nginx.
-
-Aqui vai uma sugestão adaptada:
-
----
-
 ```markdown
 # PortifólioHUB — Portfólio de Pietra Meneses
 
